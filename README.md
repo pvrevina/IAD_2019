@@ -1,3 +1,3 @@
 # IAD_2019
 
-Minor "Introduction to machine learning"
+Homeworks for "Introduction to machine learning" course. 
