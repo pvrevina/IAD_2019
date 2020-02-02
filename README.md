@@ -1,6 +1,5 @@
 # IAD_2019
-
-В этом репозитории находятся решения домашних заданий по курсу "Введение в анализ данных" майнора "Интеллектуальный анализ данных". 
-* ДЗ №1 -- NumPy, Pandas, Matplotlib
-* ДЗ №2 -- Линейная регрессия и регуляризации 
-* ДЗ №3 -- Случайный лес, градиентный бустинг и их композиция
+This repository contains solutions for home works for "Introduction to Data Science" course, Intellectial Data Analysis minor at HSE. 
+* HW1: NumPy, Pandas, Matplotlib
+* HW2: Linear regression and regularization
+* HW3: Random forest, gradient boosting and compositions 
